@@ -1,57 +1,78 @@
-# The Brew Coffee Shop | Power BI Dashboard
+# The Brew Coffee Shop — Power BI Dashboard
 
-A Power BI dashboard analyzing coffee shop sales, product performance, and customer behavior.
+An interactive business intelligence dashboard developed using Microsoft Power BI to analyze coffee shop sales, product performance, and customer behavior. The project presents key business metrics through clear visualizations and a consistent coffee-inspired design.
 
-## 🏆 Achievement
+## 🏆 Hackathon Achievement
 
-**3rd Place — Hackathon**
+**3rd Place — Best Results and Visual Design**
 
-Recognized for best results and visual design.
+This project was developed as part of a hackathon and earned third place, recognizing its analytical results and dashboard design.
 
-## 🎥 Demo Video
+## 🎥 Project Demo
 
-[Watch Dashboard Demo](https://drive.google.com/file/d/1itIQVRzX1V0LPycE8ZDulolYgmoa2uMZ/view?usp=sharing)
+Watch the video walkthrough to explore the dashboard pages, visualizations, and interactive features.
+
+[**Watch the Dashboard Demo**](https://drive.google.com/file/d/1itIQVRzX1V0LPycE8ZDulolYgmoa2uMZ/view?usp=sharing)
 
 ## Dashboard Preview
 
 ### 1. Overview
-![Overview Dashboard](overview.png)
 
-Sales KPIs, monthly revenue, coffee categories, and daily sales.
+![The Brew Coffee Shop - Overview](overview.png)
+
+Provides a summary of the coffee shop's performance, including:
+
+- Total Orders, Average Order Value, Total Revenue, and Unique Customers.
+- Monthly revenue trends.
+- Sales distribution by coffee category.
+- Revenue comparison across days of the week.
 
 ### 2. Product Insights
-![Product Insights](Product%20Insights.png)
 
-Product performance and sales analysis.
+![The Brew Coffee Shop - Product Insights](Product%20Insights.png)
+
+Explores product performance and sales patterns to highlight differences across products and categories.
 
 ### 3. Customer Loyalty
-![Customer Loyalty](Customer%20Loyalty.png)
 
-Customer behavior, loyalty, and payment preferences.
+![The Brew Coffee Shop - Customer Loyalty](Customer%20Loyalty.png)
+
+Examines customer purchasing behavior, loyalty-related metrics, and payment preferences to provide a clearer view of customer activity.
 
 ## Key Features
 
-- Sales and revenue analysis.
-- Product performance insights.
-- Customer behavior analysis.
-- Interactive month and year filters.
-- KPI cards and visualizations.
+- **Sales Analysis:** Track revenue, order volume, and sales trends.
+- **Product Insights:** Compare product and category performance.
+- **Customer Analytics:** Explore purchasing behavior and loyalty patterns.
+- **Interactive Filtering:** Filter results by month and year.
+- **KPI Cards & Visualizations:** Present key metrics in an accessible, organized format.
 
-## Tools
+## Tools & Technologies
 
-- Microsoft Power BI
-- Data Analytics
-- Business Intelligence
+- **Microsoft Power BI** — Dashboard development and data visualization.
+- **Data Analytics** — Sales and customer behavior analysis.
+- **Business Intelligence** — KPI monitoring and performance reporting.
 
 ## Repository Contents
 
-- `Hackathon نيوتك.pbix` — Power BI report.
-- `overview.png` — Overview page.
-- `Product Insights.png` — Product analysis.
-- `Customer Loyalty.png` — Customer analysis.
+| File | Description |
+|---|---|
+| `Hackathon نيوتك.pbix` | Original Power BI dashboard file. |
+| `overview.png` | Overview page screenshot. |
+| `Product Insights.png` | Product Insights page screenshot. |
+| `Customer Loyalty.png` | Customer Loyalty page screenshot. |
+| `README.md` | Project documentation and previews. |
 
-## How to Explore
+## How to Explore the Project
 
-Download the `.pbix` file and open it in Power BI Desktop to explore the dashboard.
+1. Browse the dashboard screenshots above.
+2. Watch the demo video to see the report in action.
+3. Download the `.pbix` file and open it in **Power BI Desktop** to explore the report.
 
-**Note:** Data refresh may depend on the original data sources and configuration.
+*Note: Data refresh and full report functionality may depend on the original data sources and configuration.*
+
+---
+
+**Project Category:** Data Analytics & Business Intelligence  
+**Project Type:** Hackathon  
+**Achievement:** 3rd Place — Best Results and Visual Design
